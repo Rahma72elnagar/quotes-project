@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.caption{
+    text-align: center;
+}
+.caption h1{
+    font-size: 80px;
+    font-weight: 700;
+    color: black;
+    font-family: Impact;
+    margin-top: 50px;
+    
+
+}
+.caption p{
+    font-size: 35px;
+    font-weight: 400;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 30px;
+    
+
+}
+.caption button{
+    padding: 30px 90px;
+    color: white;
+    background-color: blue;
+    
+   
+}
+
+.caption button:hover{
+    background-color: green;
+}
